@@ -1,0 +1,5 @@
+build/
+dist/
+stock_predictor.egg-info/
+__pycache__/
+stock_predictor/__pycache__
